@@ -12,7 +12,8 @@ pip3 install keyboard
 
 3.User Video
 How to Use:
+
 <video width="320" height="240" controls>
-  <source src="[http://example.com/path/to/video.mp4" type="video/mp4](https://raw.githubusercontent.com/donglxd/syncFile/main/user%20video.mp4)https://raw.githubusercontent.com/donglxd/syncFile/main/user%20video.mp4">
+  <source src="[https://raw.githubusercontent.com/donglxd/syncFile/main/user%20video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
