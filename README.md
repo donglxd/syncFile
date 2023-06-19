@@ -5,8 +5,8 @@ This script uses the hash md5 method to divide into small blocks, compare the di
 2.Installation:
 python version: 3.9
 
-'''
+```
 pip3 install hashlib tkinter keyboard threading
-'''
+```
 
 3.User Video
