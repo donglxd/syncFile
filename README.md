@@ -6,7 +6,7 @@ This script uses the hash md5 method to divide into small blocks, compare the di
 python version: 3.9
 
 ```
-pip3 install keyboard threading
+pip3 install keyboard
 ```
 
 3.User Video
